@@ -45,7 +45,7 @@ This project analyzes passenger reviews of British Airways flights using a Table
 
 ## Data Cleaning Scripts
 
-### SQL Example
+### SQL
 
 ```sql
 -- Remove duplicates and filter out null ratings
@@ -68,7 +68,7 @@ FROM raw_reviews
 WHERE overall_rating IS NOT NULL;
 ```
 
-### Python Example (using pandas)
+### Python
 
 ```python
 import pandas as pd
