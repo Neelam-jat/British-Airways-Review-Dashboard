@@ -1,6 +1,6 @@
 # British Airways Review Dashboard
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard%201.png)
 
 [View on Tableau Public](https://public.tableau.com/app/profile/neelam.s.jat/viz/BritishAirwaysReviewDashboard_17577182834360/Dashboard1)
 
